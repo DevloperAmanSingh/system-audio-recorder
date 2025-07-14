@@ -24,7 +24,7 @@ This app captures all system playing on your Mac and it will save it as mp3 file
 
 ## Electron App
 
-https://drive.google.com/file/d/1PoYigxCB3t2RzoAUVYiolLODx2BVocrM/view?usp=sharing
+<img width="629" height="432" alt="Screenshot 2025-07-14 at 8 04 59 PM" src="https://github.com/user-attachments/assets/9189fe78-075c-47f7-9ee1-7e453bfae1b6" />
 
 ## Usage
 
