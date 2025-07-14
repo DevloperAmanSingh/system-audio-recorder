@@ -22,6 +22,10 @@ This app captures all system playing on your Mac and it will save it as mp3 file
 - **FFmpeg** installed and accessible in PATH
 - **Node.js** and **npm**
 
+##Screenshots 
+
+
+
 ## Usage
 
 ```bash
