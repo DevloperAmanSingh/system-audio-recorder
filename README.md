@@ -22,10 +22,11 @@ This app captures all system playing on your Mac and it will save it as mp3 file
 - **FFmpeg** installed and accessible in PATH
 - **Node.js** and **npm**
 
-## Screenshots 
+## Video Recording 
 
-<img width="735" height="464" alt="image" src="https://github.com/user-attachments/assets/37361f13-e8fc-484e-ad89-0dcca07398e2" />
+https://github.com/user-attachments/assets/258659c6-7f18-4770-9582-1e36279653c5
 
+Here as u can see in video i played demo mp3 sound which was recorded by electron app and then it is saved as stop recording was pressed. And we can hear the same sound from the output mp3 file.
 
 ## Usage
 
